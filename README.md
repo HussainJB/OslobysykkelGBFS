@@ -34,4 +34,3 @@ With the limited time (around 3 hours) spent developing, testing and pushing thi
 1. Create a better graphical user interface.
 2. Get GPS location from a GPS traceable device so that user does not have to enter location/address.
 3. Implement map view with live status
-4. 
